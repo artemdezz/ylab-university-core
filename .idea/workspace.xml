@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -35,6 +35,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AB\Desktop\ylab-university-core\src\main\java" />
       <recent name="C:\Users\AB\Desktop\ylab-university-core" />
     </key>
   </component>
@@ -112,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661690829674</updated>
       <workItem from="1661690831329" duration="324000" />
-      <workItem from="1661691322794" duration="10234000" />
+      <workItem from="1661691322794" duration="11386000" />
     </task>
     <servers />
   </component>
